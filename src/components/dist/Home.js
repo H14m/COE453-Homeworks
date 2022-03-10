@@ -24,7 +24,7 @@ var Home = /** @class */ (function (_super) {
             react_1["default"].createElement("div", { className: "hcolumn" },
                 react_1["default"].createElement("h1", null, "Hello , I'm Haitham Alsunaydi"),
                 react_1["default"].createElement("h1", null, "Softoware Engnieer Student"),
-                react_1["default"].createElement("button", { className: "button", ref: "mailto:s201671280@Kfupm.edu.sa" }, "Contact")),
+                react_1["default"].createElement("button", { className: "button", ref: "mailto:s201671280@Kfupm.edu.sa" }, "s201671280@Kfupm.edu.sa")),
             react_1["default"].createElement("div", { className: "img" })));
     };
     return Home;
