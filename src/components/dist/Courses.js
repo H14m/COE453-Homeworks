@@ -32,7 +32,7 @@ var Courses = /** @class */ (function (_super) {
         return (react_1["default"].createElement("div", { className: "row" },
             react_1["default"].createElement("div", { className: "column" }),
             react_1["default"].createElement("div", { id: "mid" },
-                react_1["default"].createElement("h1", { className: 'h' }, "Social Health"),
+                react_1["default"].createElement("h1", { className: 'h' }, "Courses"),
                 courses_json_1["default"].items.map(function (Courses) { return react_1["default"].createElement("div", null,
                     react_1["default"].createElement("h2", null, Courses.title),
                     react_1["default"].createElement("p", null, Courses.text),
