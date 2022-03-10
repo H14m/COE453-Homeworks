@@ -18,7 +18,7 @@
                     <div className="row">
                         <div className="column"></div>
                     <div id="mid">
-                      <h1 className='h'>Social Health</h1>
+                      <h1 className='h'>Courses</h1>
                       {data.items.map(Courses => <div><h2>{Courses.title}</h2>
                       
                       <p>{Courses.text}</p>
