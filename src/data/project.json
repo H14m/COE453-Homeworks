@@ -1,0 +1,17 @@
+{"items" :[
+    {
+    "title":" Goals and Objectives ",
+     "text":"The goal of “Social Health” is to motivate users to live healthy in an entertaining way, by providing users with communities where they can exchange exercising tips and diet recipes, put up posts, share their achievements, and invite other users to complete challenges.Social Health also provide users with various diet and exercise plans to choose from or they can create their own diet plans, achievements that earn them points on completion, and a way to privately chat with other users."
+    },
+    {"title" : " Expected Achievement List ",
+    "text":"The Team aims to build a mobile application that works on both Android and IOS platforms. The application should have the main functionalities that are listed in the Software Requirements Specifications (SRS) document; however, the app should be stable and well tested so the number of bugs will be minimized."
+    },
+    {"title" : "Broader Impact",
+        "text":"Many people do not stick to the diet because the society does not encourage them to achieve their goals.The main impact of this system is to help the user to find an appropriate community to share encouragement and experiences which will help them to enjoy their diets and stick to them."
+        },
+        {"title" : "Benchmarking / Relative Background",
+            "text":"The social Health app will provide and experience that no other applications offer, it combines different areas regarding health in one application.Exercises, diets, and communities where users can share their knowledge and experience will be part of the app.According to the study‘Diet App Use by Sports Dietitians: A Survey in Five Countries’, 33% of sports dietitians who used mobile apps for diet said they had positive experience. The study was conducted in 2015, when apps were not advanced and essential for users. Social Health will offer more than what the apps did in 2015. Hence it will have bigger impact in improving user's experience. Part of the app is communities; the team believes that this feature is what will differentiate it from the other apps.It will allow the users to share and discuss their experience.It has shown in the past, when the users are the creators, it leads to more active community."
+            }
+]
+
+}

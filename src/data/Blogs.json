@@ -1,0 +1,16 @@
+{"items" :[
+    {
+    "title":"What Is Cloud Computing?",
+     "text":"Cloud computing is the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software. Rather than keeping files on a proprietary hard drive or local storage device, cloud-based storage makes it possible to save them to a remote database. As long as an electronic device has access to the web, it has access to the data and the software programs to run it. Cloud computing is a popular option for people and businesses for a number of reasons including cost savings, increased productivity, speed and efficiency, performance, and security."
+    },
+    {"title" : " Understanding Cloud Computing",
+    "text":"Cloud computing is named as such because the information being accessed is found remotely in the cloud or a virtual space. Companies that provide cloud services enable users to store files and applications on remote servers and then access all the data via the Internet. This means the user is not required to be in a specific place to gain access to it, allowing the user to work remotely. Cloud computing takes all the heavy lifting involved in crunching and processing data away from the device you carry around or sit and work at. It also moves all of that work to huge computer clusters far away in cyberspace. The Internet becomes the cloud, and voilà—your data, work, and applications are available from any device with which you can connect to the Internet, anywhere in the world. Cloud computing can be both public and private. Public cloud services provide their services over the Internet for a fee. Private cloud services, on the other hand, only provide services to a certain number of people. These services are a system of networks that supply hosted services. There is also a hybrid option, which combines elements of both the public and private services."
+    },
+    {"title" : "Types of Cloud Services",
+        "text":"Many people do not stick to the diet because the society does not encourage them to achieve their goals.The main impact of this system is to help the user to find an appropriate community to share encouragement and experiences which will help them to enjoy their diets and stick to them."
+        },
+        {"title" : "Benchmarking / Relative Background",
+            "text":"Regardless of the kind of service, cloud computing services provide users with a series of functions including: Email   : 1-Storage, backup, and data retrieval     2-Creating and testing apps     3-Analyzing data        4-Audio and video streaming       5-Delivering software on demand"           }
+]
+
+}

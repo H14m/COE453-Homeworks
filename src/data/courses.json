@@ -1,0 +1,28 @@
+{"items" :[
+    {
+    "title":"SWE 487 – Software Process and Process Improvement",
+     "text":"Software process models. Software process analysis. Life cycle process models and standards. Process implementation at various levels like organization, project, team, or individual. Measurement and analysis of software process. Process improvements."
+     ,"Objectives":[""]
+    },
+    {"title":"SWE 445 – Secure software design",
+        "text":"Security in requirements engineering; Secure designs; Risk analysis; The SQUARE Process Model; Threat modeling; Defensive coding; Software protection; Fuzzing; Static analysis and security assessment; Memory leaks, buffer and heap overflow attacks, injection attacks."
+        ,"Objectives":["Integrate security at the early stages of SDLC" , " Introduce students to defensive security measures when developing software"]
+
+    },
+
+        {"title":"SWE 363 – Software Process and Process Improvement",
+        "text":"Web Engineering fundamentals: requirements, analysis modeling, design modeling, testing. Internet basics for web applications. Technologies and tools for developing web applications: markup languages, styling, data description and transformation, client and server side programming.Web services.Advances in web engineering." 
+        ,"Objectives":["To provide students with conceptual and practical knowledge, and skills required to develop web applications and web services."]
+    },
+        {"title":"ICS 474 – Big Data Analytics",
+"text":"Introduction and foundation of big data and big-data analytics. Sources of big data. Smart clouds. Hadoop file system and Apache Spark. Storage management for big data. Machine learning and visualization with big data. Applications of big data. Big data security, privacy, and its societal impacts.",        
+"Objectives":["Describe big data and characteristics of big data.", 
+    "Explain big data modelling, analysis, and management.",
+    "Present to the student how to apply machine learning techniques to big data analysis using tools like Apache Hadoop, Apache Spark, etc.",
+    "Introduce the students to designing, analyzing, and presenting experiments on big data."
+]
+
+}
+]
+
+}

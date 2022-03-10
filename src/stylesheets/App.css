@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: #d2f1e1;
+}
+
+.nav > li {
+  display: inline-block;
+  padding: 0px 20px;
+
+}
+
+.nav > li a {
+
+  transition: all 0.3s ease 0s;
+
+}
+
+/* Change the link color to #111 (black) on hover */
+.nav > li a:hover {
+  color: #ffffff;
+}
+.logo {
+  font-family: 'Staatliches', cursive;
+  float: left;
+padding: 14px 16px;
+color: #d2f1e1;
+}
+a{
+  color: #d2f1e1;
+  text-align: center;
+  text-decoration: none;}
