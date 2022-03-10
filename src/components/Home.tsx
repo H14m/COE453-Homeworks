@@ -9,7 +9,7 @@ class Home extends React.Component {
         <div className="split1">
         <div className="hcolumn"><h1>Hello , I'm Haitham Alsunaydi</h1>
         <h1>Softoware Engnieer Student</h1>
-        <button className="button" ref="mailto:s201671280@Kfupm.edu.sa">Contact</button>
+        <button className="button" ref="mailto:s201671280@Kfupm.edu.sa">s201671280@Kfupm.edu.sa</button>
 
 </div>
             <div className="img"></div>
